@@ -17,8 +17,8 @@
   "libraries": {
     "Entidades/1.0.0": {
       "type": "project",
-      "path": "../BibliotecaDeClases/Entidades.csproj",
-      "msbuildProject": "../BibliotecaDeClases/Entidades.csproj"
+      "path": "../Entidades/Entidades.csproj",
+      "msbuildProject": "../Entidades/Entidades.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -53,8 +53,8 @@
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
           "projectReferences": {
-            "C:\\Users\\EGY96\\OneDrive\\Escritorio\\tps_laboratorio_ii\\TP1\\BibliotecaDeClases\\Entidades.csproj": {
-              "projectPath": "C:\\Users\\EGY96\\OneDrive\\Escritorio\\tps_laboratorio_ii\\TP1\\BibliotecaDeClases\\Entidades.csproj"
+            "C:\\Users\\EGY96\\OneDrive\\Escritorio\\tps_laboratorio_ii\\TP1\\Entidades\\Entidades.csproj": {
+              "projectPath": "C:\\Users\\EGY96\\OneDrive\\Escritorio\\tps_laboratorio_ii\\TP1\\Entidades\\Entidades.csproj"
             }
           }
         }

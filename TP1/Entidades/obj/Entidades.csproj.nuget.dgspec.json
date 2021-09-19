@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\EGY96\\OneDrive\\Escritorio\\tps_laboratorio_ii\\TP1\\BibliotecaDeClases\\Entidades.csproj": {}
+    "C:\\Users\\EGY96\\OneDrive\\Escritorio\\tps_laboratorio_ii\\TP1\\Entidades\\Entidades.csproj": {}
   },
   "projects": {
-    "C:\\Users\\EGY96\\OneDrive\\Escritorio\\tps_laboratorio_ii\\TP1\\BibliotecaDeClases\\Entidades.csproj": {
+    "C:\\Users\\EGY96\\OneDrive\\Escritorio\\tps_laboratorio_ii\\TP1\\Entidades\\Entidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\EGY96\\OneDrive\\Escritorio\\tps_laboratorio_ii\\TP1\\BibliotecaDeClases\\Entidades.csproj",
+        "projectUniqueName": "C:\\Users\\EGY96\\OneDrive\\Escritorio\\tps_laboratorio_ii\\TP1\\Entidades\\Entidades.csproj",
         "projectName": "Entidades",
-        "projectPath": "C:\\Users\\EGY96\\OneDrive\\Escritorio\\tps_laboratorio_ii\\TP1\\BibliotecaDeClases\\Entidades.csproj",
+        "projectPath": "C:\\Users\\EGY96\\OneDrive\\Escritorio\\tps_laboratorio_ii\\TP1\\Entidades\\Entidades.csproj",
         "packagesPath": "C:\\Users\\EGY96\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\EGY96\\OneDrive\\Escritorio\\tps_laboratorio_ii\\TP1\\BibliotecaDeClases\\obj\\",
+        "outputPath": "C:\\Users\\EGY96\\OneDrive\\Escritorio\\tps_laboratorio_ii\\TP1\\Entidades\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\EGY96\\AppData\\Roaming\\NuGet\\NuGet.Config",
