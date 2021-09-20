@@ -33,7 +33,16 @@ namespace Entidades
         /// </summary>
         public Operando()
         {
-            this.Numero = "0";
+            this.numero = 0;
+        }
+
+        /// <summary>
+        ///     Método constructor que recibe por parametro el valor a asignar al atributo numero.
+        /// </summary>
+        /// <param name="numero">double con valor a asignar al atributo numero</param>
+        public Operando(double numero) : this()
+        {
+            this.numero = numero;
         }
 
         /// <summary>
@@ -45,13 +54,7 @@ namespace Entidades
             this.Numero = strNumero;
         }
 
-        /// <summary>
-        ///     Método constructor que recibe por parametro el valor a asignar al atributo numero.
-        /// </summary>
-        /// <param name="numero">double con valor a asignar al atributo numero</param>
-        public Operando(double numero) : this(numero.ToString())
-        {
-        }
+
         /// <summary>
         ///     Método que realiza la conversión de binario a decimal
         /// </summary>
@@ -95,12 +98,12 @@ namespace Entidades
             int entero = (int)Math.Abs(numero);
             int resto;
             string binario = "";
-            do
+            while(entero >= 2)
             {
                 resto = entero % 2;
                 entero /= 2;
                 binario = resto.ToString() + binario;
-            } while (entero >= 2);
+            } 
             binario = entero.ToString() + binario;
             if (binario[0] == '-')
             {

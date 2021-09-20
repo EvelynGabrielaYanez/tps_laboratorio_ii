@@ -83,6 +83,7 @@ namespace MiCalculadora
             {
                 strNumeroUno = "0";
             }
+            
             if (operador.Equals(""))
             {
                 operador = "+";
@@ -91,6 +92,11 @@ namespace MiCalculadora
             {
                 strNumeroDos = "0";
             }
+            if (strNumeroDos.Equals("0") && operador.Equals("/"))
+            {
+                MessageBox.Show("No es posible dividir por 0","Error",MessageBoxButtons.OK,MessageBoxIcon.Error);
+            }
+
             this.lstOperaciones.Items.Add($"{strNumeroUno} {operador} {strNumeroDos} = {resultado}");
         }
 
@@ -111,8 +117,21 @@ namespace MiCalculadora
         /// <param name="e"></param>
         private void btnConvertirABinario_Click(object sender, EventArgs e)
         {
-            string binario = Operando.DecimalBinario(this.lblResultado.Text);
-            this.lstOperaciones.Items.Add($"({this.lblResultado.Text})d = ({binario})b");
+            string stringDecimal = this.lblResultado.Text;
+            string binario = Operando.DecimalBinario(stringDecimal);
+            
+            if (!binario.Equals("Valor Demasiado Grande"))
+            {
+                if (stringDecimal.Equals(""))
+                {
+                    stringDecimal = "0";
+                }
+                this.lstOperaciones.Items.Add($"({stringDecimal})d = ({binario})b");
+            }
+            else
+            {
+                this.lstOperaciones.Items.Add($" La conversión de {stringDecimal} a binario es demasiado grande para mostrarla.");
+            }
 
             this.lblResultado.Text = binario;
         }
@@ -124,14 +143,19 @@ namespace MiCalculadora
         /// <param name="e"></param>
         private void btnConvertirADecimal_Click(object sender, EventArgs e)
         {
-            string numeroDecimal = Operando.BinarioDecimal(this.lblResultado.Text);
-            if (numeroDecimal.Equals("Valor invalido"))
+            string binario = this.lblResultado.Text;
+            string numeroDecimal = Operando.BinarioDecimal(binario);
+            if (!numeroDecimal.Equals("Valor inválido"))
             {
-                this.lstOperaciones.Items.Add($"({this.lblResultado.Text})b = ({numeroDecimal})d");
+                if (binario.Equals(""))
+                {
+                    binario = "0";
+                }
+                this.lstOperaciones.Items.Add($"({binario})b = ({numeroDecimal})d");
             }
             else
             {
-                this.lstOperaciones.Items.Add($" El valor {this.lblResultado.Text} no es binario");
+                this.lstOperaciones.Items.Add($" El valor {binario} no es binario");
             }
             
             this.lblResultado.Text = numeroDecimal;
