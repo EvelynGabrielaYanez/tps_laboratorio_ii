@@ -9,7 +9,7 @@ namespace Entidades
     /// <summary>
     /// No podrá tener clases heredadas.
     /// </summary>
-    public class Taller
+    public sealed class Taller
     {
         List<Vehiculo> vehiculos;
         int espacioDisponible;
@@ -63,24 +63,25 @@ namespace Entidades
 
             sb.AppendFormat("Tenemos {0} lugares ocupados de un total de {1} disponibles", taller.vehiculos.Count, taller.espacioDisponible);
             sb.AppendLine("");
-            foreach (Vehiculo v in taller.vehiculos)
+            foreach (Vehiculo vehiculo in taller.vehiculos)
             {
                 switch (tipo)
                 {
                     case ETipo.Camioneta:
-                        if (v.GetType() != typeof(Suv))
+                        if (vehiculo.GetType() != typeof(Suv))
                             continue;
                         break;
                     case ETipo.Moto:
-                        if (v.GetType() != typeof(Ciclomotor))
+                        if (vehiculo.GetType() != typeof(Ciclomotor))
                             continue;
                         break;
                     case ETipo.Automovil:
-                        if (v.GetType() != typeof(Sedan))
+                        if (vehiculo.GetType() != typeof(Sedan))
                             continue;
                         break;
                 }
-                sb.AppendLine(v.Mostrar());
+                sb.AppendLine(vehiculo.Mostrar());
+
             }
 
             return sb.ToString();

@@ -15,7 +15,7 @@ namespace TP_02_2018
             Console.SetWindowPosition(0, 0);
             Console.SetWindowSize(Console.LargestWindowWidth / 2, Console.LargestWindowHeight - 2);
 
-            // Nombre del alumno
+            // Titulo de la consola
             Console.Title = "";
 
             Taller taller = new Taller(6);
