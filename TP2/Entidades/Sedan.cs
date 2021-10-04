@@ -14,7 +14,7 @@ namespace Entidades
         private ETipo tipo;
 
         /// <summary>
-        /// Método constructor de la clase Sedan
+        /// Por defecto, TIPO será CuatroPuertas
         /// </summary>
         /// <param name="marca"></param>
         /// <param name="chasis"></param>
@@ -25,7 +25,7 @@ namespace Entidades
         }
 
         /// <summary>
-        /// Por defecto, TIPO será CuatroPuertas
+        /// Método constructor de la clase Sedan
         /// </summary>
         /// <param name="marca"></param>
         /// <param name="chasis"></param>
