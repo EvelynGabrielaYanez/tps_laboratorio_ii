@@ -17,7 +17,7 @@ namespace TestAsociacion
         [TestInitialize]
         public void Initialize()
         {
-            Usuario usuario = new Usuario("asistenciaTestNombre", "asistenciaTestApellido", 38555666, Convert.ToDateTime("01/09/2021"), EGrupo.Lunes, 10, 1578423714, new List<ETipoCausaIngreso>() { ETipoCausaIngreso.DelitoSexual, ETipoCausaIngreso.MaltratoYAbusoInfantil });
+            Usuario usuario = new Usuario("asistenciaTestNombre", "asistenciaTestApellido", 37429444, Convert.ToDateTime("01/09/2021"), EGrupo.Lunes, 10, 1578423714, new List<ETipoCausaIngreso>() { ETipoCausaIngreso.DelitoSexual, ETipoCausaIngreso.MaltratoYAbusoInfantil });
             this.asistencia = new Asistencia(usuario, Convert.ToDateTime("29/10/2021"), EGrupo.Viernes, ETipoAsistencia.Ausente);
         }
 
