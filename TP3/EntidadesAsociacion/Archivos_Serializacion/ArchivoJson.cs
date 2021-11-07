@@ -81,6 +81,10 @@ namespace EntidadesAsociacion.Archivos_Serializacion
                     {
                         contenidoDeseralizado = JsonSerializer.Deserialize<T>(File.ReadAllText(archivo));
                     }
+                    else
+                    {
+                        throw new ErrorDeLectura($"El archivo de nombre {nombreDelArchivo} no existe.");
+                    }
                 }
                 return contenidoDeseralizado;
             }

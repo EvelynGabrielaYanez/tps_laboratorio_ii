@@ -11,6 +11,13 @@ namespace EntidadesAsociacion.Excepciones.Archivos
         /// Método constructor de la excepción
         /// </summary>
         /// <param name="mensaje">Mensaje que retorna la excepcion</param>
+        public ErrorDeLectura(string mensaje) : base(mensaje)
+        {
+        }
+        /// <summary>
+        /// Método constructor de la excepción
+        /// </summary>
+        /// <param name="mensaje">Mensaje que retorna la excepcion</param>
         /// <param name="excepcion">Expecion interna</param>
         public ErrorDeLectura(string mensaje, Exception error) : base(mensaje, error)
         {

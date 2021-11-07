@@ -92,6 +92,10 @@ namespace EntidadesAsociacion.Archivos_Serializacion
                             contenidoDeseralizado = (T)seralizadorXml.Deserialize(streamReader);
                         }
                     }
+                    else
+                    {
+                        throw new ErrorDeLectura($"El archivo de nombre {nombreDelArchivo} no existe.");
+                    }
                 }
                 return contenidoDeseralizado;
             }
