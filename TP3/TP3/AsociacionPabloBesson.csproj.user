@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="FrmAsistencia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmAsistenciaAlta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmAsistenciaEditar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmAutocompletar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmExportar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmExportarAsistencia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmImportarAsistencias.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmInicioSesion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmMenuPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmReportesPorFiltro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmReportesPorPorcentaje.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmAltaUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmListadoUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

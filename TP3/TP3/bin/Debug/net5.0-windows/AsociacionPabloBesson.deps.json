@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "AsociacionPabloBesson/1.0.0": {
+        "dependencies": {
+          "EntidadesAsociacion": "1.0.0"
+        },
+        "runtime": {
+          "AsociacionPabloBesson.dll": {}
+        }
+      },
+      "EntidadesAsociacion/1.0.0": {
+        "runtime": {
+          "EntidadesAsociacion.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AsociacionPabloBesson/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EntidadesAsociacion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

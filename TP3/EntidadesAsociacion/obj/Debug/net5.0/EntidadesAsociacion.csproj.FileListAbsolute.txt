@@ -1,0 +1,66 @@
+C:\Users\EGY96\source\repos\EntidadesAsociacion\bin\Debug\net5.0\EntidadesAsociacion.deps.json
+C:\Users\EGY96\source\repos\EntidadesAsociacion\bin\Debug\net5.0\EntidadesAsociacion.dll
+C:\Users\EGY96\source\repos\EntidadesAsociacion\bin\Debug\net5.0\ref\EntidadesAsociacion.dll
+C:\Users\EGY96\source\repos\EntidadesAsociacion\bin\Debug\net5.0\EntidadesAsociacion.pdb
+C:\Users\EGY96\source\repos\EntidadesAsociacion\obj\Debug\net5.0\EntidadesAsociacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EGY96\source\repos\EntidadesAsociacion\obj\Debug\net5.0\EntidadesAsociacion.AssemblyInfoInputs.cache
+C:\Users\EGY96\source\repos\EntidadesAsociacion\obj\Debug\net5.0\EntidadesAsociacion.AssemblyInfo.cs
+C:\Users\EGY96\source\repos\EntidadesAsociacion\obj\Debug\net5.0\EntidadesAsociacion.csproj.CoreCompileInputs.cache
+C:\Users\EGY96\source\repos\EntidadesAsociacion\obj\Debug\net5.0\EntidadesAsociacion.dll
+C:\Users\EGY96\source\repos\EntidadesAsociacion\obj\Debug\net5.0\ref\EntidadesAsociacion.dll
+C:\Users\EGY96\source\repos\EntidadesAsociacion\obj\Debug\net5.0\EntidadesAsociacion.pdb
+C:\Users\EGY96\source\repos\EntidadesAsociacion\obj\Debug\net5.0\EntidadesAsociacion.csproj.AssemblyReference.cache
+C:\Users\EGY96\OneDrive\Escritorio\Nueva carpeta (2)\EntidadesAsociacion\bin\Debug\net5.0\EntidadesAsociacion.deps.json
+C:\Users\EGY96\OneDrive\Escritorio\Nueva carpeta (2)\EntidadesAsociacion\bin\Debug\net5.0\EntidadesAsociacion.dll
+C:\Users\EGY96\OneDrive\Escritorio\Nueva carpeta (2)\EntidadesAsociacion\bin\Debug\net5.0\ref\EntidadesAsociacion.dll
+C:\Users\EGY96\OneDrive\Escritorio\Nueva carpeta (2)\EntidadesAsociacion\bin\Debug\net5.0\EntidadesAsociacion.pdb
+C:\Users\EGY96\OneDrive\Escritorio\Nueva carpeta (2)\EntidadesAsociacion\obj\Debug\net5.0\EntidadesAsociacion.csproj.AssemblyReference.cache
+C:\Users\EGY96\OneDrive\Escritorio\Nueva carpeta (2)\EntidadesAsociacion\obj\Debug\net5.0\EntidadesAsociacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EGY96\OneDrive\Escritorio\Nueva carpeta (2)\EntidadesAsociacion\obj\Debug\net5.0\EntidadesAsociacion.AssemblyInfoInputs.cache
+C:\Users\EGY96\OneDrive\Escritorio\Nueva carpeta (2)\EntidadesAsociacion\obj\Debug\net5.0\EntidadesAsociacion.AssemblyInfo.cs
+C:\Users\EGY96\OneDrive\Escritorio\Nueva carpeta (2)\EntidadesAsociacion\obj\Debug\net5.0\EntidadesAsociacion.csproj.CoreCompileInputs.cache
+C:\Users\EGY96\OneDrive\Escritorio\Nueva carpeta (2)\EntidadesAsociacion\obj\Debug\net5.0\EntidadesAsociacion.dll
+C:\Users\EGY96\OneDrive\Escritorio\Nueva carpeta (2)\EntidadesAsociacion\obj\Debug\net5.0\ref\EntidadesAsociacion.dll
+C:\Users\EGY96\OneDrive\Escritorio\Nueva carpeta (2)\EntidadesAsociacion\obj\Debug\net5.0\EntidadesAsociacion.pdb
+C:\Users\Evelyn\Desktop\PreubaTP\TP3\EntidadesAsociacion\bin\Debug\net5.0\EntidadesAsociacion.deps.json
+C:\Users\Evelyn\Desktop\PreubaTP\TP3\EntidadesAsociacion\bin\Debug\net5.0\EntidadesAsociacion.dll
+C:\Users\Evelyn\Desktop\PreubaTP\TP3\EntidadesAsociacion\bin\Debug\net5.0\ref\EntidadesAsociacion.dll
+C:\Users\Evelyn\Desktop\PreubaTP\TP3\EntidadesAsociacion\bin\Debug\net5.0\EntidadesAsociacion.pdb
+C:\Users\Evelyn\Desktop\PreubaTP\TP3\EntidadesAsociacion\obj\Debug\net5.0\EntidadesAsociacion.csproj.AssemblyReference.cache
+C:\Users\Evelyn\Desktop\PreubaTP\TP3\EntidadesAsociacion\obj\Debug\net5.0\EntidadesAsociacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Evelyn\Desktop\PreubaTP\TP3\EntidadesAsociacion\obj\Debug\net5.0\EntidadesAsociacion.AssemblyInfoInputs.cache
+C:\Users\Evelyn\Desktop\PreubaTP\TP3\EntidadesAsociacion\obj\Debug\net5.0\EntidadesAsociacion.AssemblyInfo.cs
+C:\Users\Evelyn\Desktop\PreubaTP\TP3\EntidadesAsociacion\obj\Debug\net5.0\EntidadesAsociacion.csproj.CoreCompileInputs.cache
+C:\Users\Evelyn\Desktop\PreubaTP\TP3\EntidadesAsociacion\obj\Debug\net5.0\EntidadesAsociacion.dll
+C:\Users\Evelyn\Desktop\PreubaTP\TP3\EntidadesAsociacion\obj\Debug\net5.0\ref\EntidadesAsociacion.dll
+C:\Users\Evelyn\Desktop\PreubaTP\TP3\EntidadesAsociacion\obj\Debug\net5.0\EntidadesAsociacion.pdb
+C:\Users\Evelyn\Desktop\PreubaTP\TP3\EntidadesAsociacion\bin\Debug\net5.0\Archivos_Serializacion\ArchivosLectura\Asistencias.json
+C:\Users\Evelyn\Desktop\PreubaTP\TP3\EntidadesAsociacion\bin\Debug\net5.0\Archivos_Serializacion\ArchivosLectura\Asistencias.xml
+C:\Users\EGY96\OneDrive\Escritorio\PreubaTP\TP3\EntidadesAsociacion\bin\Debug\net5.0\Archivos_Serializacion\ArchivosLectura\Asistencias.json
+C:\Users\EGY96\OneDrive\Escritorio\PreubaTP\TP3\EntidadesAsociacion\bin\Debug\net5.0\Archivos_Serializacion\ArchivosLectura\Asistencias.xml
+C:\Users\EGY96\OneDrive\Escritorio\PreubaTP\TP3\EntidadesAsociacion\bin\Debug\net5.0\EntidadesAsociacion.deps.json
+C:\Users\EGY96\OneDrive\Escritorio\PreubaTP\TP3\EntidadesAsociacion\bin\Debug\net5.0\EntidadesAsociacion.dll
+C:\Users\EGY96\OneDrive\Escritorio\PreubaTP\TP3\EntidadesAsociacion\bin\Debug\net5.0\ref\EntidadesAsociacion.dll
+C:\Users\EGY96\OneDrive\Escritorio\PreubaTP\TP3\EntidadesAsociacion\bin\Debug\net5.0\EntidadesAsociacion.pdb
+C:\Users\EGY96\OneDrive\Escritorio\PreubaTP\TP3\EntidadesAsociacion\obj\Debug\net5.0\EntidadesAsociacion.csproj.AssemblyReference.cache
+C:\Users\EGY96\OneDrive\Escritorio\PreubaTP\TP3\EntidadesAsociacion\obj\Debug\net5.0\EntidadesAsociacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EGY96\OneDrive\Escritorio\PreubaTP\TP3\EntidadesAsociacion\obj\Debug\net5.0\EntidadesAsociacion.AssemblyInfoInputs.cache
+C:\Users\EGY96\OneDrive\Escritorio\PreubaTP\TP3\EntidadesAsociacion\obj\Debug\net5.0\EntidadesAsociacion.AssemblyInfo.cs
+C:\Users\EGY96\OneDrive\Escritorio\PreubaTP\TP3\EntidadesAsociacion\obj\Debug\net5.0\EntidadesAsociacion.csproj.CoreCompileInputs.cache
+C:\Users\EGY96\OneDrive\Escritorio\PreubaTP\TP3\EntidadesAsociacion\obj\Debug\net5.0\EntidadesAsociacion.dll
+C:\Users\EGY96\OneDrive\Escritorio\PreubaTP\TP3\EntidadesAsociacion\obj\Debug\net5.0\ref\EntidadesAsociacion.dll
+C:\Users\EGY96\OneDrive\Escritorio\PreubaTP\TP3\EntidadesAsociacion\obj\Debug\net5.0\EntidadesAsociacion.pdb
+C:\Users\EGY96\OneDrive\Escritorio\tps_laboratorio_ii\TP3\EntidadesAsociacion\bin\Debug\net5.0\Archivos_Serializacion\ArchivosLectura\Asistencias.json
+C:\Users\EGY96\OneDrive\Escritorio\tps_laboratorio_ii\TP3\EntidadesAsociacion\bin\Debug\net5.0\Archivos_Serializacion\ArchivosLectura\Asistencias.xml
+C:\Users\EGY96\OneDrive\Escritorio\tps_laboratorio_ii\TP3\EntidadesAsociacion\bin\Debug\net5.0\EntidadesAsociacion.deps.json
+C:\Users\EGY96\OneDrive\Escritorio\tps_laboratorio_ii\TP3\EntidadesAsociacion\bin\Debug\net5.0\EntidadesAsociacion.dll
+C:\Users\EGY96\OneDrive\Escritorio\tps_laboratorio_ii\TP3\EntidadesAsociacion\bin\Debug\net5.0\ref\EntidadesAsociacion.dll
+C:\Users\EGY96\OneDrive\Escritorio\tps_laboratorio_ii\TP3\EntidadesAsociacion\bin\Debug\net5.0\EntidadesAsociacion.pdb
+C:\Users\EGY96\OneDrive\Escritorio\tps_laboratorio_ii\TP3\EntidadesAsociacion\obj\Debug\net5.0\EntidadesAsociacion.csproj.AssemblyReference.cache
+C:\Users\EGY96\OneDrive\Escritorio\tps_laboratorio_ii\TP3\EntidadesAsociacion\obj\Debug\net5.0\EntidadesAsociacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EGY96\OneDrive\Escritorio\tps_laboratorio_ii\TP3\EntidadesAsociacion\obj\Debug\net5.0\EntidadesAsociacion.AssemblyInfoInputs.cache
+C:\Users\EGY96\OneDrive\Escritorio\tps_laboratorio_ii\TP3\EntidadesAsociacion\obj\Debug\net5.0\EntidadesAsociacion.AssemblyInfo.cs
+C:\Users\EGY96\OneDrive\Escritorio\tps_laboratorio_ii\TP3\EntidadesAsociacion\obj\Debug\net5.0\EntidadesAsociacion.csproj.CoreCompileInputs.cache
+C:\Users\EGY96\OneDrive\Escritorio\tps_laboratorio_ii\TP3\EntidadesAsociacion\obj\Debug\net5.0\EntidadesAsociacion.dll
+C:\Users\EGY96\OneDrive\Escritorio\tps_laboratorio_ii\TP3\EntidadesAsociacion\obj\Debug\net5.0\ref\EntidadesAsociacion.dll
+C:\Users\EGY96\OneDrive\Escritorio\tps_laboratorio_ii\TP3\EntidadesAsociacion\obj\Debug\net5.0\EntidadesAsociacion.pdb

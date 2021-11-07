@@ -1,0 +1,141 @@
+C:\Users\EGY96\source\repos\TP3\bin\Debug\net5.0-windows\TP3.exe
+C:\Users\EGY96\source\repos\TP3\bin\Debug\net5.0-windows\TP3.deps.json
+C:\Users\EGY96\source\repos\TP3\bin\Debug\net5.0-windows\TP3.runtimeconfig.json
+C:\Users\EGY96\source\repos\TP3\bin\Debug\net5.0-windows\TP3.runtimeconfig.dev.json
+C:\Users\EGY96\source\repos\TP3\bin\Debug\net5.0-windows\TP3.dll
+C:\Users\EGY96\source\repos\TP3\bin\Debug\net5.0-windows\ref\TP3.dll
+C:\Users\EGY96\source\repos\TP3\bin\Debug\net5.0-windows\TP3.pdb
+C:\Users\EGY96\source\repos\TP3\bin\Debug\net5.0-windows\EntidadesAsociacion.dll
+C:\Users\EGY96\source\repos\TP3\bin\Debug\net5.0-windows\EntidadesAsociacion.pdb
+C:\Users\EGY96\source\repos\TP3\obj\Debug\net5.0-windows\TP3.csproj.AssemblyReference.cache
+C:\Users\EGY96\source\repos\TP3\obj\Debug\net5.0-windows\TP3.FrmAsistencia.resources
+C:\Users\EGY96\source\repos\TP3\obj\Debug\net5.0-windows\TP3.FrmAsistenciaAlta.resources
+C:\Users\EGY96\source\repos\TP3\obj\Debug\net5.0-windows\TP3.FrmAsistenciaEditar.resources
+C:\Users\EGY96\source\repos\TP3\obj\Debug\net5.0-windows\TP3.FrmAutocompletar.resources
+C:\Users\EGY96\source\repos\TP3\obj\Debug\net5.0-windows\TP3.FrmExportar.resources
+C:\Users\EGY96\source\repos\TP3\obj\Debug\net5.0-windows\TP3.FrmExportarAsistencia.resources
+C:\Users\EGY96\source\repos\TP3\obj\Debug\net5.0-windows\TP3.FrmImportarAsistencias.resources
+C:\Users\EGY96\source\repos\TP3\obj\Debug\net5.0-windows\TP3.FrmInicioSesion.resources
+C:\Users\EGY96\source\repos\TP3\obj\Debug\net5.0-windows\TP3.FrmMenuPrincipal.resources
+C:\Users\EGY96\source\repos\TP3\obj\Debug\net5.0-windows\TP3.FrmRegistros.resources
+C:\Users\EGY96\source\repos\TP3\obj\Debug\net5.0-windows\TP3.FrmReportesPorFiltro.resources
+C:\Users\EGY96\source\repos\TP3\obj\Debug\net5.0-windows\TP3.FrmReportesPorPorcentaje.resources
+C:\Users\EGY96\source\repos\TP3\obj\Debug\net5.0-windows\TP3.Properties.Resources.resources
+C:\Users\EGY96\source\repos\TP3\obj\Debug\net5.0-windows\TP3.UsuarioABM.FrmAltaUsuario.resources
+C:\Users\EGY96\source\repos\TP3\obj\Debug\net5.0-windows\TP3.UsuarioABM.FrmListadoUsuarios.resources
+C:\Users\EGY96\source\repos\TP3\obj\Debug\net5.0-windows\TP3.csproj.GenerateResource.cache
+C:\Users\EGY96\source\repos\TP3\obj\Debug\net5.0-windows\TP3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EGY96\source\repos\TP3\obj\Debug\net5.0-windows\TP3.AssemblyInfoInputs.cache
+C:\Users\EGY96\source\repos\TP3\obj\Debug\net5.0-windows\TP3.AssemblyInfo.cs
+C:\Users\EGY96\source\repos\TP3\obj\Debug\net5.0-windows\TP3.csproj.CoreCompileInputs.cache
+C:\Users\EGY96\source\repos\TP3\obj\Debug\net5.0-windows\TP3.csproj.CopyComplete
+C:\Users\EGY96\source\repos\TP3\obj\Debug\net5.0-windows\TP3.dll
+C:\Users\EGY96\source\repos\TP3\obj\Debug\net5.0-windows\ref\TP3.dll
+C:\Users\EGY96\source\repos\TP3\obj\Debug\net5.0-windows\TP3.pdb
+C:\Users\EGY96\source\repos\TP3\obj\Debug\net5.0-windows\TP3.genruntimeconfig.cache
+C:\Users\EGY96\OneDrive\Escritorio\Nueva carpeta (2)\TP3\bin\Debug\net5.0-windows\TP3.exe
+C:\Users\EGY96\OneDrive\Escritorio\Nueva carpeta (2)\TP3\bin\Debug\net5.0-windows\TP3.deps.json
+C:\Users\EGY96\OneDrive\Escritorio\Nueva carpeta (2)\TP3\bin\Debug\net5.0-windows\TP3.runtimeconfig.json
+C:\Users\EGY96\OneDrive\Escritorio\Nueva carpeta (2)\TP3\bin\Debug\net5.0-windows\TP3.runtimeconfig.dev.json
+C:\Users\EGY96\OneDrive\Escritorio\Nueva carpeta (2)\TP3\bin\Debug\net5.0-windows\TP3.dll
+C:\Users\EGY96\OneDrive\Escritorio\Nueva carpeta (2)\TP3\bin\Debug\net5.0-windows\ref\TP3.dll
+C:\Users\EGY96\OneDrive\Escritorio\Nueva carpeta (2)\TP3\bin\Debug\net5.0-windows\TP3.pdb
+C:\Users\EGY96\OneDrive\Escritorio\Nueva carpeta (2)\TP3\bin\Debug\net5.0-windows\EntidadesAsociacion.dll
+C:\Users\EGY96\OneDrive\Escritorio\Nueva carpeta (2)\TP3\bin\Debug\net5.0-windows\EntidadesAsociacion.pdb
+C:\Users\EGY96\OneDrive\Escritorio\Nueva carpeta (2)\TP3\obj\Debug\net5.0-windows\TP3.csproj.AssemblyReference.cache
+C:\Users\EGY96\OneDrive\Escritorio\Nueva carpeta (2)\TP3\obj\Debug\net5.0-windows\TP3.FrmAsistencia.resources
+C:\Users\EGY96\OneDrive\Escritorio\Nueva carpeta (2)\TP3\obj\Debug\net5.0-windows\TP3.FrmAsistenciaAlta.resources
+C:\Users\EGY96\OneDrive\Escritorio\Nueva carpeta (2)\TP3\obj\Debug\net5.0-windows\TP3.FrmAsistenciaEditar.resources
+C:\Users\EGY96\OneDrive\Escritorio\Nueva carpeta (2)\TP3\obj\Debug\net5.0-windows\TP3.FrmAutocompletar.resources
+C:\Users\EGY96\OneDrive\Escritorio\Nueva carpeta (2)\TP3\obj\Debug\net5.0-windows\TP3.FrmExportar.resources
+C:\Users\EGY96\OneDrive\Escritorio\Nueva carpeta (2)\TP3\obj\Debug\net5.0-windows\TP3.FrmExportarAsistencia.resources
+C:\Users\EGY96\OneDrive\Escritorio\Nueva carpeta (2)\TP3\obj\Debug\net5.0-windows\TP3.FrmImportarAsistencias.resources
+C:\Users\EGY96\OneDrive\Escritorio\Nueva carpeta (2)\TP3\obj\Debug\net5.0-windows\TP3.FrmInicioSesion.resources
+C:\Users\EGY96\OneDrive\Escritorio\Nueva carpeta (2)\TP3\obj\Debug\net5.0-windows\TP3.FrmMenuPrincipal.resources
+C:\Users\EGY96\OneDrive\Escritorio\Nueva carpeta (2)\TP3\obj\Debug\net5.0-windows\TP3.FrmRegistros.resources
+C:\Users\EGY96\OneDrive\Escritorio\Nueva carpeta (2)\TP3\obj\Debug\net5.0-windows\TP3.FrmReportesPorFiltro.resources
+C:\Users\EGY96\OneDrive\Escritorio\Nueva carpeta (2)\TP3\obj\Debug\net5.0-windows\TP3.FrmReportesPorPorcentaje.resources
+C:\Users\EGY96\OneDrive\Escritorio\Nueva carpeta (2)\TP3\obj\Debug\net5.0-windows\TP3.Properties.Resources.resources
+C:\Users\EGY96\OneDrive\Escritorio\Nueva carpeta (2)\TP3\obj\Debug\net5.0-windows\TP3.UsuarioABM.FrmAltaUsuario.resources
+C:\Users\EGY96\OneDrive\Escritorio\Nueva carpeta (2)\TP3\obj\Debug\net5.0-windows\TP3.UsuarioABM.FrmListadoUsuarios.resources
+C:\Users\EGY96\OneDrive\Escritorio\Nueva carpeta (2)\TP3\obj\Debug\net5.0-windows\TP3.csproj.GenerateResource.cache
+C:\Users\EGY96\OneDrive\Escritorio\Nueva carpeta (2)\TP3\obj\Debug\net5.0-windows\TP3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EGY96\OneDrive\Escritorio\Nueva carpeta (2)\TP3\obj\Debug\net5.0-windows\TP3.AssemblyInfoInputs.cache
+C:\Users\EGY96\OneDrive\Escritorio\Nueva carpeta (2)\TP3\obj\Debug\net5.0-windows\TP3.AssemblyInfo.cs
+C:\Users\EGY96\OneDrive\Escritorio\Nueva carpeta (2)\TP3\obj\Debug\net5.0-windows\TP3.csproj.CoreCompileInputs.cache
+C:\Users\EGY96\OneDrive\Escritorio\Nueva carpeta (2)\TP3\obj\Debug\net5.0-windows\TP3.dll
+C:\Users\EGY96\OneDrive\Escritorio\Nueva carpeta (2)\TP3\obj\Debug\net5.0-windows\ref\TP3.dll
+C:\Users\EGY96\OneDrive\Escritorio\Nueva carpeta (2)\TP3\obj\Debug\net5.0-windows\TP3.pdb
+C:\Users\EGY96\OneDrive\Escritorio\Nueva carpeta (2)\TP3\obj\Debug\net5.0-windows\TP3.genruntimeconfig.cache
+C:\Users\Evelyn\Desktop\PreubaTP\TP3\TP3\bin\Debug\net5.0-windows\TP3.exe
+C:\Users\Evelyn\Desktop\PreubaTP\TP3\TP3\bin\Debug\net5.0-windows\TP3.deps.json
+C:\Users\Evelyn\Desktop\PreubaTP\TP3\TP3\bin\Debug\net5.0-windows\TP3.runtimeconfig.json
+C:\Users\Evelyn\Desktop\PreubaTP\TP3\TP3\bin\Debug\net5.0-windows\TP3.runtimeconfig.dev.json
+C:\Users\Evelyn\Desktop\PreubaTP\TP3\TP3\bin\Debug\net5.0-windows\TP3.dll
+C:\Users\Evelyn\Desktop\PreubaTP\TP3\TP3\bin\Debug\net5.0-windows\ref\TP3.dll
+C:\Users\Evelyn\Desktop\PreubaTP\TP3\TP3\bin\Debug\net5.0-windows\TP3.pdb
+C:\Users\Evelyn\Desktop\PreubaTP\TP3\TP3\bin\Debug\net5.0-windows\EntidadesAsociacion.dll
+C:\Users\Evelyn\Desktop\PreubaTP\TP3\TP3\bin\Debug\net5.0-windows\EntidadesAsociacion.pdb
+C:\Users\Evelyn\Desktop\PreubaTP\TP3\TP3\obj\Debug\net5.0-windows\TP3.csproj.AssemblyReference.cache
+C:\Users\Evelyn\Desktop\PreubaTP\TP3\TP3\obj\Debug\net5.0-windows\TP3.FrmAsistencia.resources
+C:\Users\Evelyn\Desktop\PreubaTP\TP3\TP3\obj\Debug\net5.0-windows\TP3.FrmAsistenciaAlta.resources
+C:\Users\Evelyn\Desktop\PreubaTP\TP3\TP3\obj\Debug\net5.0-windows\TP3.FrmAsistenciaEditar.resources
+C:\Users\Evelyn\Desktop\PreubaTP\TP3\TP3\obj\Debug\net5.0-windows\TP3.FrmAutocompletar.resources
+C:\Users\Evelyn\Desktop\PreubaTP\TP3\TP3\obj\Debug\net5.0-windows\TP3.FrmExportar.resources
+C:\Users\Evelyn\Desktop\PreubaTP\TP3\TP3\obj\Debug\net5.0-windows\TP3.FrmExportarAsistencia.resources
+C:\Users\Evelyn\Desktop\PreubaTP\TP3\TP3\obj\Debug\net5.0-windows\TP3.FrmImportarAsistencias.resources
+C:\Users\Evelyn\Desktop\PreubaTP\TP3\TP3\obj\Debug\net5.0-windows\TP3.FrmInicioSesion.resources
+C:\Users\Evelyn\Desktop\PreubaTP\TP3\TP3\obj\Debug\net5.0-windows\TP3.FrmMenuPrincipal.resources
+C:\Users\Evelyn\Desktop\PreubaTP\TP3\TP3\obj\Debug\net5.0-windows\TP3.FrmRegistros.resources
+C:\Users\Evelyn\Desktop\PreubaTP\TP3\TP3\obj\Debug\net5.0-windows\TP3.FrmReportesPorFiltro.resources
+C:\Users\Evelyn\Desktop\PreubaTP\TP3\TP3\obj\Debug\net5.0-windows\TP3.FrmReportesPorPorcentaje.resources
+C:\Users\Evelyn\Desktop\PreubaTP\TP3\TP3\obj\Debug\net5.0-windows\TP3.Properties.Resources.resources
+C:\Users\Evelyn\Desktop\PreubaTP\TP3\TP3\obj\Debug\net5.0-windows\TP3.UsuarioABM.FrmAltaUsuario.resources
+C:\Users\Evelyn\Desktop\PreubaTP\TP3\TP3\obj\Debug\net5.0-windows\TP3.UsuarioABM.FrmListadoUsuarios.resources
+C:\Users\Evelyn\Desktop\PreubaTP\TP3\TP3\obj\Debug\net5.0-windows\TP3.csproj.GenerateResource.cache
+C:\Users\Evelyn\Desktop\PreubaTP\TP3\TP3\obj\Debug\net5.0-windows\TP3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Evelyn\Desktop\PreubaTP\TP3\TP3\obj\Debug\net5.0-windows\TP3.AssemblyInfoInputs.cache
+C:\Users\Evelyn\Desktop\PreubaTP\TP3\TP3\obj\Debug\net5.0-windows\TP3.AssemblyInfo.cs
+C:\Users\Evelyn\Desktop\PreubaTP\TP3\TP3\obj\Debug\net5.0-windows\TP3.csproj.CoreCompileInputs.cache
+C:\Users\Evelyn\Desktop\PreubaTP\TP3\TP3\obj\Debug\net5.0-windows\TP3.dll
+C:\Users\Evelyn\Desktop\PreubaTP\TP3\TP3\obj\Debug\net5.0-windows\ref\TP3.dll
+C:\Users\Evelyn\Desktop\PreubaTP\TP3\TP3\obj\Debug\net5.0-windows\TP3.pdb
+C:\Users\Evelyn\Desktop\PreubaTP\TP3\TP3\obj\Debug\net5.0-windows\TP3.genruntimeconfig.cache
+C:\Users\Evelyn\Desktop\PreubaTP\TP3\TP3\bin\Debug\net5.0-windows\Archivos_Serializacion\ArchivosLectura\Asistencias.json
+C:\Users\Evelyn\Desktop\PreubaTP\TP3\TP3\obj\Debug\net5.0-windows\TP3.csproj.CopyComplete
+C:\Users\Evelyn\Desktop\PreubaTP\TP3\TP3\bin\Debug\net5.0-windows\Archivos_Serializacion\ArchivosLectura\Asistencias.xml
+C:\Users\EGY96\OneDrive\Escritorio\PreubaTP\TP3\TP3\bin\Debug\net5.0-windows\TP3.exe
+C:\Users\EGY96\OneDrive\Escritorio\PreubaTP\TP3\TP3\bin\Debug\net5.0-windows\Archivos_Serializacion\ArchivosLectura\Asistencias.json
+C:\Users\EGY96\OneDrive\Escritorio\PreubaTP\TP3\TP3\bin\Debug\net5.0-windows\Archivos_Serializacion\ArchivosLectura\Asistencias.xml
+C:\Users\EGY96\OneDrive\Escritorio\PreubaTP\TP3\TP3\bin\Debug\net5.0-windows\TP3.deps.json
+C:\Users\EGY96\OneDrive\Escritorio\PreubaTP\TP3\TP3\bin\Debug\net5.0-windows\TP3.runtimeconfig.json
+C:\Users\EGY96\OneDrive\Escritorio\PreubaTP\TP3\TP3\bin\Debug\net5.0-windows\TP3.runtimeconfig.dev.json
+C:\Users\EGY96\OneDrive\Escritorio\PreubaTP\TP3\TP3\bin\Debug\net5.0-windows\TP3.dll
+C:\Users\EGY96\OneDrive\Escritorio\PreubaTP\TP3\TP3\bin\Debug\net5.0-windows\ref\TP3.dll
+C:\Users\EGY96\OneDrive\Escritorio\PreubaTP\TP3\TP3\bin\Debug\net5.0-windows\TP3.pdb
+C:\Users\EGY96\OneDrive\Escritorio\PreubaTP\TP3\TP3\bin\Debug\net5.0-windows\EntidadesAsociacion.dll
+C:\Users\EGY96\OneDrive\Escritorio\PreubaTP\TP3\TP3\bin\Debug\net5.0-windows\EntidadesAsociacion.pdb
+C:\Users\EGY96\OneDrive\Escritorio\PreubaTP\TP3\TP3\obj\Debug\net5.0-windows\TP3.csproj.AssemblyReference.cache
+C:\Users\EGY96\OneDrive\Escritorio\PreubaTP\TP3\TP3\obj\Debug\net5.0-windows\TP3.UsuarioABM.FrmAltaUsuario.resources
+C:\Users\EGY96\OneDrive\Escritorio\PreubaTP\TP3\TP3\obj\Debug\net5.0-windows\TP3.FrmAsistencia.resources
+C:\Users\EGY96\OneDrive\Escritorio\PreubaTP\TP3\TP3\obj\Debug\net5.0-windows\TP3.FrmAsistenciaAlta.resources
+C:\Users\EGY96\OneDrive\Escritorio\PreubaTP\TP3\TP3\obj\Debug\net5.0-windows\TP3.FrmAsistenciaEditar.resources
+C:\Users\EGY96\OneDrive\Escritorio\PreubaTP\TP3\TP3\obj\Debug\net5.0-windows\TP3.FrmAutocompletar.resources
+C:\Users\EGY96\OneDrive\Escritorio\PreubaTP\TP3\TP3\obj\Debug\net5.0-windows\TP3.FrmExportar.resources
+C:\Users\EGY96\OneDrive\Escritorio\PreubaTP\TP3\TP3\obj\Debug\net5.0-windows\TP3.FrmExportarAsistencia.resources
+C:\Users\EGY96\OneDrive\Escritorio\PreubaTP\TP3\TP3\obj\Debug\net5.0-windows\TP3.FrmImportarAsistencias.resources
+C:\Users\EGY96\OneDrive\Escritorio\PreubaTP\TP3\TP3\obj\Debug\net5.0-windows\TP3.FrmInicioSesion.resources
+C:\Users\EGY96\OneDrive\Escritorio\PreubaTP\TP3\TP3\obj\Debug\net5.0-windows\TP3.UsuarioABM.FrmListadoUsuarios.resources
+C:\Users\EGY96\OneDrive\Escritorio\PreubaTP\TP3\TP3\obj\Debug\net5.0-windows\TP3.FrmMenuPrincipal.resources
+C:\Users\EGY96\OneDrive\Escritorio\PreubaTP\TP3\TP3\obj\Debug\net5.0-windows\TP3.FrmReportesPorFiltro.resources
+C:\Users\EGY96\OneDrive\Escritorio\PreubaTP\TP3\TP3\obj\Debug\net5.0-windows\TP3.FrmReportesPorPorcentaje.resources
+C:\Users\EGY96\OneDrive\Escritorio\PreubaTP\TP3\TP3\obj\Debug\net5.0-windows\TP3.Properties.Resources.resources
+C:\Users\EGY96\OneDrive\Escritorio\PreubaTP\TP3\TP3\obj\Debug\net5.0-windows\TP3.csproj.GenerateResource.cache
+C:\Users\EGY96\OneDrive\Escritorio\PreubaTP\TP3\TP3\obj\Debug\net5.0-windows\TP3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EGY96\OneDrive\Escritorio\PreubaTP\TP3\TP3\obj\Debug\net5.0-windows\TP3.AssemblyInfoInputs.cache
+C:\Users\EGY96\OneDrive\Escritorio\PreubaTP\TP3\TP3\obj\Debug\net5.0-windows\TP3.AssemblyInfo.cs
+C:\Users\EGY96\OneDrive\Escritorio\PreubaTP\TP3\TP3\obj\Debug\net5.0-windows\TP3.csproj.CoreCompileInputs.cache
+C:\Users\EGY96\OneDrive\Escritorio\PreubaTP\TP3\TP3\obj\Debug\net5.0-windows\TP3.dll
+C:\Users\EGY96\OneDrive\Escritorio\PreubaTP\TP3\TP3\obj\Debug\net5.0-windows\ref\TP3.dll
+C:\Users\EGY96\OneDrive\Escritorio\PreubaTP\TP3\TP3\obj\Debug\net5.0-windows\TP3.pdb
+C:\Users\EGY96\OneDrive\Escritorio\PreubaTP\TP3\TP3\obj\Debug\net5.0-windows\TP3.genruntimeconfig.cache
