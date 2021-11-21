@@ -130,26 +130,6 @@ namespace EntidadesAsociacion.Controladores
         }
 
         /// <summary>
-        /// Método encargado de filtrar por tipo de presencialidad y grupo un listado de asistencias
-        /// </summary>
-        /// <param name="tipoDeAsistencia">Tipo de asistencia(presencialidad)</param>
-        /// <param name="grupo">Tipo de grupo</param>
-        /// <param name="listadoAsistencias">Listado de asistencias a filtrar</param>
-        /// <returns>Listado de asistencias filtrado</returns>
-        private static List<Asistencia> FiltrarPorTipoPresencialidad(ETipoAsistencia tipoDeAsistencia, EGrupo grupo, List<Asistencia> listadoAsistencias)
-        {
-            List<Asistencia> listadoRetorno = new List<Asistencia>();
-            foreach (Asistencia asistencia in listadoAsistencias)
-            {
-                if (asistencia.Presente == tipoDeAsistencia && asistencia.Grupo == grupo)
-                {
-                    listadoRetorno.Add(asistencia);
-                }
-            }
-            return listadoRetorno;
-        }
-
-        /// <summary>
         /// Método encargado de calcular el porcentaje de usuarios por tipo de asistencias en un grupo.
         /// </summary>
         /// <param name="grupo">Grupo en el que se calculara</param>

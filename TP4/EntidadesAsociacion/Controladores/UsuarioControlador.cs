@@ -28,6 +28,12 @@ namespace EntidadesAsociacion.Controladores
             return cantidadInsertada > 0;
         }
 
+        /// <summary>
+        /// Método encargado de buscar los usurios de un grupo que no tienen registro de asistencia para la fecha especificada
+        /// </summary>
+        /// <param name="grupo">Grupo al que peretenecen los usuarios</param>
+        /// <param name="fecha">Fecha de asistencia por la que se buscan los registros</param>
+        /// <returns>Listado de usuarios sin registro de asistencia</returns>
         public static List<Usuario> BuscarUsuariosSinAsistencia(EGrupo grupo, DateTime fecha)
         {
             return UsuarioDB.BuscarUsuariosSinAsistencia(grupo,fecha);
@@ -45,13 +51,7 @@ namespace EntidadesAsociacion.Controladores
             List<Usuario> listadoRetorno = new List<Usuario>();
             if (fechaDesde <= fechaHasta)
             {
-                foreach (Usuario usuario in listadoaFiltrar)
-                {
-                    if (usuario.FechaIngreso.Date >= fechaDesde.Date && usuario.FechaIngreso.Date <= fechaHasta.Date)
-                    {
-                        listadoRetorno.Add(usuario);
-                    }
-                }
+                listadoRetorno = listadoaFiltrar.FindAll(usuario => usuario.FechaIngreso.Date >= fechaDesde.Date && usuario.FechaIngreso.Date <= fechaHasta.Date);
             }
             return listadoRetorno;
         }
@@ -77,7 +77,6 @@ namespace EntidadesAsociacion.Controladores
             return listadoRetorno;
         }
 
-
         /// <summary>
         /// Método encargado de filtrar por cantidad de denuncias el listado de usuarios pasado por parametro (Se filtra por intervalos que contengan a los extremos)
         /// </summary>
@@ -90,13 +89,7 @@ namespace EntidadesAsociacion.Controladores
             List<Usuario> listadoRetorno = new List<Usuario>();
             if (denunciasMinimo >= 0 && denunciasMinimo <= denunciasMaximo)
             {
-                foreach (Usuario usuario in listadoaFiltrar)
-                {
-                    if (usuario.DenunciasRegistradas >= denunciasMinimo && usuario.DenunciasRegistradas <= denunciasMaximo)
-                    {
-                        listadoRetorno.Add(usuario);
-                    }
-                }
+                listadoRetorno = listadoaFiltrar.FindAll(usuario => usuario.DenunciasRegistradas >= denunciasMinimo && usuario.DenunciasRegistradas <= denunciasMaximo);
             }
             return listadoRetorno;
         }
@@ -113,13 +106,7 @@ namespace EntidadesAsociacion.Controladores
             List<Usuario> listadoRetorno = new List<Usuario>();
             if (filtroCausaDeIngreso is not null && filtroCausaDeIngreso.Count > 0)
             {
-                foreach (Usuario usuario in listadoaFiltrar)
-                {
-                    if (usuario.ValidarLasCausaDeIngreso(filtroCausaDeIngreso))
-                    {
-                        listadoRetorno.Add(usuario);
-                    }
-                }
+                listadoRetorno = listadoaFiltrar.FindAll(usuario => usuario.ValidarLasCausaDeIngreso(filtroCausaDeIngreso));
             }
             return listadoRetorno;
         }
