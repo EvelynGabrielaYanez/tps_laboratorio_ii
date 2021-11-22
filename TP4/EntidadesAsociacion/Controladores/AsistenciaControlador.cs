@@ -30,7 +30,7 @@ namespace EntidadesAsociacion.Controladores
 
                 Turno turnoActual = TurnoControlador.BuscarTurnoAbierto();
                 // Si la asistencia no esta cargada la agrego
-                if (asistencia is null && nuevoRegistro.Fecha <= turnoActual.Fecha)
+                if (asistencia is null && nuevoRegistro.Fecha.Date <= turnoActual.Fecha)
                 {
                     retorno = AsistenciaDB.Insertar(nuevoRegistro) > 0;
                 }

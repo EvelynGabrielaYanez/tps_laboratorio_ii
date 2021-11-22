@@ -28,54 +28,64 @@ namespace EntidadesAsociacion.CierreTurno
         }
 
         /// <summary>
-        /// Método encargado de realizar el cierre de turnos.
-        /// Esta tarea se correra cada un minuto y validara si puede o no cerrar el turno
+        /// Método encargado de ejecutar la tarea encargada de realizr el cierre de turnos.
+        /// Esta tarea se correra cada dos segundos y validara si puede o no cerrar el turno
         /// disparando el evento de falta de cargas de asistencias en caso de que corresponda
         /// </summary>
         /// <param name="tokenDeCancelacion">Token de cancelacion de la tarea</param>
         public async void ControlarCierre(CancellationTokenSource tokenDeCancelacion)
         {
-            await Task.Run(() =>
+            await Task.Run(() => this.ValidarYCerrarTurno(tokenDeCancelacion));
+        }
+
+        /// <summary>
+        /// Método encargado de realizar el cierre de turnos.
+        /// Esta tarea se correra cada dos segundos  y validara si puede o no cerrar el turno
+        /// disparando el evento de falta de cargas de asistencias en caso de que corresponda
+        /// </summary>
+        /// <param name="tokenDeCancelacion"></param>
+        public void ValidarYCerrarTurno(CancellationTokenSource tokenDeCancelacion)
+        {
+            while (true)
             {
-                  while (true)
-                  {
 
-                    if (tokenDeCancelacion.IsCancellationRequested)
-                        break;
+                if (tokenDeCancelacion.IsCancellationRequested)
+                    break;
 
-                    // Valido si es una fecha activa
-                    if (this.turno is null)
+                // Valido si es una fecha activa
+                if (this.turno is null)
+                {
+                    Turno nuevoTurno = new Turno(DateTime.Now, Asociacion.ObtenerGrupoPorFecha(DateTime.Now), false);
+                    TurnoControlador.Insertar(nuevoTurno);
+                    this.turno = nuevoTurno;
+                }
+                else
+                {
+                    // Valida si el turno es igual a la fecha actual. En tal caso no se cerrara el dia.
+                    if (this.turno.Fecha.Date == DateTime.Now.Date)
+                        continue;
+
+                    if (this.turno.Grupo is not null)
                     {
-                        Turno nuevoTurno = new Turno(DateTime.Now, Asociacion.ObtenerGrupoPorFecha(DateTime.Now), false);
-                        TurnoControlador.Insertar(nuevoTurno);
-                        this.turno = nuevoTurno;
-                    } else
-                    {
-                        // Valida si el turno es igual a la fecha actual. En tal caso no se cerrara el dia.
-                        if (this.turno.Fecha.Date == DateTime.Now.Date)
-                            continue;
-
-                        if (this.turno.Grupo is not null)
+                        // Valida si se encunetran todas las asistencias cargadas
+                        List<Usuario> listadoUsuariosFaltantes = UsuarioControlador.BuscarUsuariosSinAsistencia((EGrupo)this.turno.Grupo, turno.Fecha);
+                        if (listadoUsuariosFaltantes.Count > 0)
                         {
-                            // Valida si se encunetran todas las asistencias cargadas
-                            List<Usuario> listadoUsuariosFaltantes = UsuarioControlador.BuscarUsuariosSinAsistencia((EGrupo)this.turno.Grupo, turno.Fecha);
-                            if (listadoUsuariosFaltantes.Count > 0)
-                            {
-                                AsistenciasFaltantes.Invoke(this, new InfoCierreTurno(this.turno, listadoUsuariosFaltantes));
-                            } else
-                            {
-                                this.CerrarTurno();
-                            }
+                            AsistenciasFaltantes.Invoke(this, new InfoCierreTurno(this.turno, listadoUsuariosFaltantes));
                         }
                         else
                         {
                             this.CerrarTurno();
                         }
                     }
+                    else
+                    {
+                        this.CerrarTurno();
+                    }
+                }
 
-                    Thread.Sleep(5000);
-                  }
-            });
+                Thread.Sleep(2000);
+            }
         }
 
         /// <summary>
