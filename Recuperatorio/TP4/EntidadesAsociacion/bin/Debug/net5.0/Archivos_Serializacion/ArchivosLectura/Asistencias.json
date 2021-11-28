@@ -1,0 +1,241 @@
+{
+  "DatosReporte": [
+    {
+      "Usuario": {
+        "FechaIngreso": "2021-07-01T00:00:00",
+        "ListadoDeDelitos": [
+          0
+        ],
+        "DenunciasRegistradas": 2,
+        "NumeroTelefonico": 1566429774,
+        "Activo": true,
+        "Grupo": 4,
+        "Nombre": "nombreUsuario1",
+        "Apellido": "apellidoUsuario1",
+        "Dni": 31429766
+      },
+      "DniUsuario": 31429766,
+      "Fecha": "2021-10-29T00:00:00",
+      "Grupo": 4,
+      "Presente": 0
+    },
+    {
+      "Usuario": {
+        "FechaIngreso": "2021-08-01T00:00:00",
+        "ListadoDeDelitos": [
+          0,
+          2
+        ],
+        "DenunciasRegistradas": 1,
+        "NumeroTelefonico": 1566439685,
+        "Activo": true,
+        "Grupo": 1,
+        "Nombre": "nombreUsuario2",
+        "Apellido": "apellidoUsuario2",
+        "Dni": 34429765
+      },
+      "DniUsuario": 34429765,
+      "Fecha": "2021-10-26T00:00:00",
+      "Grupo": 1,
+      "Presente": 1
+    },
+    {
+      "Usuario": {
+        "FechaIngreso": "2021-08-01T00:00:00",
+        "ListadoDeDelitos": [
+          0,
+          2
+        ],
+        "DenunciasRegistradas": 1,
+        "NumeroTelefonico": 1566439685,
+        "Activo": true,
+        "Grupo": 1,
+        "Nombre": "nombreUsuario2",
+        "Apellido": "apellidoUsuario2",
+        "Dni": 34429765
+      },
+      "DniUsuario": 34429765,
+      "Fecha": "2021-11-02T00:00:00",
+      "Grupo": 1,
+      "Presente": 1
+    },
+    {
+      "Usuario": {
+        "FechaIngreso": "2021-09-01T00:00:00",
+        "ListadoDeDelitos": [
+          2
+        ],
+        "DenunciasRegistradas": 5,
+        "NumeroTelefonico": 1566439685,
+        "Activo": true,
+        "Grupo": 2,
+        "Nombre": "nombreUsuario3",
+        "Apellido": "apellidoUsuario3",
+        "Dni": 39429767
+      },
+      "DniUsuario": 39429767,
+      "Fecha": "2021-11-03T00:00:00",
+      "Grupo": 2,
+      "Presente": 2
+    },
+    {
+      "Usuario": {
+        "FechaIngreso": "2021-04-03T00:00:00",
+        "ListadoDeDelitos": [
+          0,
+          1
+        ],
+        "DenunciasRegistradas": 10,
+        "NumeroTelefonico": 1578423714,
+        "Activo": true,
+        "Grupo": 2,
+        "Nombre": "nombreUsuario4",
+        "Apellido": "apellidoUsuario4",
+        "Dni": 36429768
+      },
+      "DniUsuario": 36429768,
+      "Fecha": "2021-11-03T00:00:00",
+      "Grupo": 2,
+      "Presente": 3
+    },
+    {
+      "Usuario": {
+        "FechaIngreso": "2021-04-03T00:00:00",
+        "ListadoDeDelitos": [
+          0,
+          1
+        ],
+        "DenunciasRegistradas": 10,
+        "NumeroTelefonico": 1578423714,
+        "Activo": true,
+        "Grupo": 2,
+        "Nombre": "nombreUsuario4",
+        "Apellido": "apellidoUsuario4",
+        "Dni": 36429768
+      },
+      "DniUsuario": 36429768,
+      "Fecha": "2021-10-27T00:00:00",
+      "Grupo": 2,
+      "Presente": 3
+    },
+    {
+      "Usuario": {
+        "FechaIngreso": "2021-09-01T00:00:00",
+        "ListadoDeDelitos": [
+          2
+        ],
+        "DenunciasRegistradas": 5,
+        "NumeroTelefonico": 1566439685,
+        "Activo": true,
+        "Grupo": 2,
+        "Nombre": "nombreUsuario3",
+        "Apellido": "apellidoUsuario3",
+        "Dni": 39429767
+      },
+      "DniUsuario": 39429767,
+      "Fecha": "2021-10-27T00:00:00",
+      "Grupo": 2,
+      "Presente": 3
+    },
+    {
+      "Usuario": {
+        "FechaIngreso": "2021-05-03T00:00:00",
+        "ListadoDeDelitos": [
+          0,
+          1
+        ],
+        "DenunciasRegistradas": 10,
+        "NumeroTelefonico": 1578423714,
+        "Activo": true,
+        "Grupo": 4,
+        "Nombre": "nombreUsuario4",
+        "Apellido": "apellidoUsuario4",
+        "Dni": 39429112
+      },
+      "DniUsuario": 39429112,
+      "Fecha": "2021-01-01T00:00:00",
+      "Grupo": 4,
+      "Presente": 3
+    },
+    {
+      "Usuario": {
+        "FechaIngreso": "2021-05-03T00:00:00",
+        "ListadoDeDelitos": [
+          0,
+          1
+        ],
+        "DenunciasRegistradas": 10,
+        "NumeroTelefonico": 1578423714,
+        "Activo": true,
+        "Grupo": 4,
+        "Nombre": "nombreUsuario4",
+        "Apellido": "apellidoUsuario4",
+        "Dni": 39429112
+      },
+      "DniUsuario": 39429112,
+      "Fecha": "2021-10-29T00:00:00",
+      "Grupo": 4,
+      "Presente": 3
+    },
+    {
+      "Usuario": {
+        "FechaIngreso": "2021-09-01T00:00:00",
+        "ListadoDeDelitos": [
+          0,
+          1
+        ],
+        "DenunciasRegistradas": 10,
+        "NumeroTelefonico": 1578423714,
+        "Activo": true,
+        "Grupo": 0,
+        "Nombre": "nombreUsuario4",
+        "Apellido": "apellidoUsuario4",
+        "Dni": 37429444
+      },
+      "DniUsuario": 37429444,
+      "Fecha": "2021-11-01T00:00:00",
+      "Grupo": 0,
+      "Presente": 3
+    },
+    {
+      "Usuario": {
+        "FechaIngreso": "2021-09-01T00:00:00",
+        "ListadoDeDelitos": [
+          0,
+          1
+        ],
+        "DenunciasRegistradas": 10,
+        "NumeroTelefonico": 1578423714,
+        "Activo": true,
+        "Grupo": 0,
+        "Nombre": "nombreUsuario4",
+        "Apellido": "apellidoUsuario4",
+        "Dni": 37429444
+      },
+      "DniUsuario": 37429444,
+      "Fecha": "2021-10-25T00:00:00",
+      "Grupo": 0,
+      "Presente": 0
+    },
+    {
+      "Usuario": {
+        "FechaIngreso": "2021-09-01T00:00:00",
+        "ListadoDeDelitos": [
+          0,
+          1
+        ],
+        "DenunciasRegistradas": 10,
+        "NumeroTelefonico": 1578423714,
+        "Activo": true,
+        "Grupo": 0,
+        "Nombre": "nombreUsuario4",
+        "Apellido": "apellidoUsuario4",
+        "Dni": 37429444
+      },
+      "DniUsuario": 37429444,
+      "Fecha": "2021-10-18T00:00:00",
+      "Grupo": 0,
+      "Presente": 1
+    }
+  ]
+}

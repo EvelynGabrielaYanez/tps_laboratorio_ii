@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0ce2f8ce-f89b-4b6a-afb8-0463726390b6": {
+      "ProjectGuid": "0ce2f8ce-f89b-4b6a-afb8-0463726390b6",
+      "DisplayName": "EntidadesAsociacion",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    },
+    "1a43dce9-17c9-4ef5-8315-175ff5f24d25": {
+      "ProjectGuid": "1a43dce9-17c9-4ef5-8315-175ff5f24d25",
+      "DisplayName": "Test",
+      "ColorIndex": 1
+    },
+    "65eecab5-fe1e-440d-a723-eabfda6c4439": {
+      "ProjectGuid": "65eecab5-fe1e-440d-a723-eabfda6c4439",
+      "DisplayName": "TestAsociacion",
+      "ColorIndex": 2
+    },
+    "19ed7235-d360-43f2-b6d4-a8fdb1bdad2e": {
+      "ProjectGuid": "19ed7235-d360-43f2-b6d4-a8fdb1bdad2e",
+      "DisplayName": "AsociacionPabloBesson",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
